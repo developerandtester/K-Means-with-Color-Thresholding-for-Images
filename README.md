@@ -1,0 +1,2 @@
+# K-Means-Clustering-Algorithm-with-Color-based-Thresholding-for-Satellite-Images
+Land cover classification is an essential input to environmental and land use planning .Clustering is a technique used for land cover classification. Clustering is the assignment of objects into groups called clusters so that objects from the same cluster are more similar to each other than objects from different clusters. The code presents an algorithm Using K means clustering algorithm with color based thresholding for classification of a satellite image.
